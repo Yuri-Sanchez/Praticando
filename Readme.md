@@ -1,0 +1,1 @@
+Aqui estão todos os exercícios que faço de fixacão da matéria, estão fora de ordem porém estou estudando por fora a linguaguem C.
