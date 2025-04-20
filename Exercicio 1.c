@@ -30,7 +30,7 @@ int main(){
     setlocale(LC_ALL, "Portuguese_Brazil");
 
     int a;
-    float km, milhas,b, h, area, distancia, tempo, velocidade, minutos, consumo, kw, mlh;
+    float km, milhas,b, h, area, distancia, tempo, velocidade, minutos, consumo, kw;
 
     do {
         printf("\nEscolha uma opção:\n");
